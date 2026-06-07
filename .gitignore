@@ -1,0 +1,13 @@
+# OS/editor files
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime/log files
+*.log
+frida-server
+
+# Python cache
+__pycache__/
+*.pyc
